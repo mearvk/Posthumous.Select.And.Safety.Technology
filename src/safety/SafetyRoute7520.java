@@ -1,5 +1,16 @@
 package safety;
 
+/**
+ * People can and shall Choose and to Arrive and to Choose and to Arrive.B
+ *
+ * Then out of this Planar SetNetworking we have Derrivedd and B
+ *
+ * Then out of Reals we'ill we Have a Black Select on Options Sundays and Saturdays excellent
+ *
+ * Why Not choose Choice;
+ *
+ * Then Exit Grandly?
+ */
 public class SafetyRoute7520
 {
     public String images = "::; ,causes.aways.252.a.b.ac ;; ac";
